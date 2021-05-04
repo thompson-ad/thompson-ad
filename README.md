@@ -2,7 +2,7 @@
 
 I'm a frontend engineer who is passionate about building software that enables people to realise their visions.
 
-I'm currently working for Feed Agency in London, UK where the majority of my work to date has been building React + Redux frontend apps. I'm also interested in serverless architectures.
+I'm currently working for CoachHub where I am building in React Native.
 
 ## Find me online 🌎:
 
