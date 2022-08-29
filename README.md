@@ -2,7 +2,7 @@
 
 I'm a frontend engineer who is passionate about building software that enables people to realise their visions.
 
-I'm currently working for CoachHub where I am building in React Native.
+I'm currently working for Zilch where I am building in React Native.
 
 ## Find me online 🌎:
 
